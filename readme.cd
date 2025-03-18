@@ -1,0 +1,7 @@
+ Objective: Built a machine learning model to predict airline ticket prices using journey details and historical data for better booking decisions.
+ Data Preparation: Cleaned and preprocessed data, applied feature engineering, and encoded categorical variables to prepare the
+ dataset for modeling.
+ Model Development: Tested multiple regression models (Linear Regression, Random Forest, Gradient Boosting) and optimized them
+ for accuracy.
+ Results: Achieved high prediction accuracy with Random Forest Regression.
+ Impact: Delivered a reliable system for accurate price predictions, enabling cost-effective travel planning.
